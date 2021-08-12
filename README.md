@@ -9,7 +9,7 @@ This project is a code refactor for Horiseon.
 * added alt attributes to image elements
 * updated title element to name of company
 
-![alt text](assets/images/screenshot.png)
+![screenshot](assets/images/Screenshot.png)
 
 
 ## Credits
