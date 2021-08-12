@@ -9,6 +9,11 @@ This project is a code refactor for Horiseon.
 * added alt attributes to image elements
 * updated title element to name of company
 
+## Links
+To github repository: https://github.com/Jwbranch4/code-refactor
+To live page : https://jwbranch4.github.io/code-refactor/
+
+
 ![screenshot](assets/images/Screenshot.png)
 
 
